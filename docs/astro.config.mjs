@@ -2,8 +2,8 @@ import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 
 export default defineConfig({
-  site: "https://<USERNAME>.github.io",
-  base: "/<REPO-NAME>",
+  site: "https://Cyberl0rd81.github.io",
+  base: "/test",
 
   integrations: [
     starlight({
